@@ -26,7 +26,6 @@ class ItemWidget extends StatelessWidget {
             fontWeight: FontWeight.bold,
           ),
         ),
-        tileColor: Colors.white,
       ),
     );
   }
